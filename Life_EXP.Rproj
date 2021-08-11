@@ -25,6 +25,8 @@ head(subdata)
 # Plotting male and female life expectancy
 ggplot(subdata,aes(x=Male, y=Female)) + 
   geom_point()
+  
+ ![image](https://user-images.githubusercontent.com/85900346/129093454-096c573d-8939-4ae5-a9fb-6f345a6d9085.png)
 
 # Adding an abline and changing the scale of axes of the previous plots
 ggplot(subdata, aes(x=Male, y=Female)) +
