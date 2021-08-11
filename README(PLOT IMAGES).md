@@ -5,30 +5,29 @@
 
 # Plot 2
 
-![image](https://user-images.githubusercontent.com/85900346/129093016-7d0803c2-40e4-42de-947c-3b2de3d6a088.png)
+![image](https://user-images.githubusercontent.com/85900346/129096610-f4ee757f-5f37-48b7-9dbd-5b883cd5e4c2.png)
 
 # Plot 3
 
-![image](https://user-images.githubusercontent.com/85900346/129094541-faf220ac-ccf1-4cb9-9a5d-88a3a7ac73de.png)
+![image](https://user-images.githubusercontent.com/85900346/129096679-6d7be2a5-f7b8-4e9f-81aa-80bb40cf2cd9.png)
 
 # Plot 4
 
-![image](https://user-images.githubusercontent.com/85900346/129094605-d86e4b37-8631-43c7-a65f-48859197bc31.png)
-
+![image](https://user-images.githubusercontent.com/85900346/129096874-a38626cf-ef55-4f27-a4e5-f02d00b96372.png)
 
 # Plot 5
 
-![image](https://user-images.githubusercontent.com/85900346/129094669-27e7d54b-2af5-42b6-9a32-7c20def69495.png)
+![image](https://user-images.githubusercontent.com/85900346/129096935-b445f96b-0577-4764-8f35-13724ec0c778.png)
 
 
 # Plot 6
 
-![image](https://user-images.githubusercontent.com/85900346/129094708-c313ad30-3df6-44a4-827a-3edaa1162c06.png)
-
+![image](https://user-images.githubusercontent.com/85900346/129096975-4b6c8fe0-6533-4ada-9311-e6208d62948b.png)
 
 
 # Plot 7
 
-![image](https://user-images.githubusercontent.com/85900346/129094736-0a8bae69-8d3e-492e-a3a5-a587bac03bf5.png)
+![image](https://user-images.githubusercontent.com/85900346/129097007-6812990c-ce49-4df1-99ea-88e552389441.png)
+
 
 
