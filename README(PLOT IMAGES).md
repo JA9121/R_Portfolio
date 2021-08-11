@@ -1,6 +1,7 @@
 # Plot 1
 
-![image](https://user-images.githubusercontent.com/85900346/129091394-8720d0f1-fd0a-4eea-a99e-84ddc2e17809.png)
+
+![image](https://user-images.githubusercontent.com/85900346/129096587-405bc108-d72e-4428-88cc-60589cb2ef43.png)
 
 # Plot 2
 
